@@ -16,8 +16,9 @@ Hocking College collects only the minimum data necessary and restricts access to
 This monitoring policy applies the principles of notice/consent, purpose limitation, data minimization, and proportionality. Users are notified through login banners and the Acceptable Use Policy, and monitoring is restricted to authorized purposes only. Data is limited to what is necessary, retained for 90 days unless legally required longer, and then securely deleted or anonymized. These practices align with Weber’s discussion of privacy and surveillance in Ethics in Technology (Ch. 8), the Fair Information Practice Principles (FIPPs), and the FTC’s Start with Security guidance, which stress transparency, limiting collection, and securing data. The policy also cites federal protections such as FERPA, ensuring monitoring respects both institutional needs and individual rights.
 
 ## Evidence Links
-clause pdf
-relflection pdf
+## Evidence Links
+- [In-Class Clause Document (PDF)](../docs/week2-clause.pdf)
+- [Week 2 Reflection (PDF)](../docs/week2-reflection.pdf)
 
 
 ## Reflection
