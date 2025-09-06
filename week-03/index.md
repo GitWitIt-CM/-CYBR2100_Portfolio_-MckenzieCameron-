@@ -22,7 +22,7 @@ I would choose the **MIT License** because it is simple and permissive. It only 
 
 **Impact**
 - What could happen if exploited
-- Severity (low/medium/high)
+- Severity (Low/Medium/High)
 
 **Mitigation**
 - Temporary fixes or workarounds
@@ -36,7 +36,7 @@ I would choose the **MIT License** because it is simple and permissive. It only 
 ---
 
 ## Justification
-The MIT license is **OSI-approved** and widely used (Open Source Initiative, n.d.). It reduces legal risk, makes collaboration easier, and still ensures the author is credited.
+The MIT License is **OSI-approved** and widely used (Open Source Initiative, n.d.). It reduces legal risk, makes collaboration easier, and still ensures the author is credited.
 
 ---
 
@@ -52,7 +52,7 @@ This week I learned how license choice affects adoption and compliance, and how 
 ---
 
 ## AI Use Note
-I used ChatGPT to help write some of the markdown code for this page, such as formatting the links and evidence section. I also used it to clarify technical terms like copyleft and derivative works.
+I used ChatGPT to help write some of the Markdown code for this page, such as formatting the links and evidence section. I also used it to clarify technical terms like copyleft and derivative works.
 
 ---
 
