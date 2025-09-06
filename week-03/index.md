@@ -1,9 +1,9 @@
 # Week 03: GPL License & Vulnerablitiy Report
 
 ## License Choice
-I would choose the **MIT License** because it is simple and permissive. It only requires attribution, works well with both open-source and propietary projects, and avoids the strict copyleft rules of GPL. Apache is similar but adds patent terms that are not relevant here.
+I would choose the **MIT License** because it is simple and permissive. It only requires attribution, works well with both open-source and proprietary projects, and avoids the strict copyleft rules of GPL. Apache is similar but adds patent terms that are not relevant here.
 
-## Vulnerablilty Report Template
+## Vulnerability Report Template
 
 **Contact Info**
 -Reporter: [Optional]
@@ -47,15 +47,15 @@ The MIT license is **OSI-approved** and widely used (Open Source Initiative, n.d
 ---
 
 ## Reflection
-This week I learned how license choice affects adoption and compliance, and how to write a clear vulnerablity report. Next, I would add a **Severity scoring system** for consistency. This helps developers by speeding up fixes and improving trust.
+This week I learned how license choice affects adoption and compliance, and how to write a clear vulnerability report. Next, I would add a **severity scoring system** for consistency. This helps developers by speeding up fixes and improving trust.
 
 ---
 
 ## AI Use Note
-I used ChatGPT to help write some of the markdown code for this page, such as formatting the links and evidence section. I also used it clarify techinical terms like copyleft and derivative works.
+I used ChatGPT to help write some of the markdown code for this page, such as formatting the links and evidence section. I also used it to clarify technical terms like copyleft and derivative works.
 
 ---
 
-## Refrences
+## References
 - Open Source Initiative. (n.d.). *Approved licenses*. [https://opensource.org/licenses](https://opensource.org/licenses)  
 - Weber, E. (2025). *Ethics in technology* (OER ed.).
