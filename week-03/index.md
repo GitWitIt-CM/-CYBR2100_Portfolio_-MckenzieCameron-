@@ -52,7 +52,8 @@ This week I learned how license choice affects adoption and compliance, and how 
 ---
 
 ## AI Use Note
-**I used ChatGPT to help write some of the Markdown code for this page, such as formatting the links and evidence section. I also used it to clarify technical terms like copyleft and derivative works.**
+I used ChatGPT to help write some of the markdown code for this page, such as formatting the links and evidence section. I also used it clarify techinical terms like copyleft and derivative works.
+
 ---
 
 ## Refrences
