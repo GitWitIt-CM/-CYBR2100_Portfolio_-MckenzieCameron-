@@ -1,7 +1,7 @@
 # Week 03: GPL License & Vulnerablitiy Report
 
 ## License Choice
-I would choose the **MIT License** because it is simple and permissive. It only requires attribution, works well with both open-source and propietary projects, and avoids the strict copyleft rules of GPL. Apache is similair but adds patent terms that are not relevant here.
+I would choose the **MIT License** because it is simple and permissive. It only requires attribution, works well with both open-source and propietary projects, and avoids the strict copyleft rules of GPL. Apache is similar but adds patent terms that are not relevant here.
 
 ## Vulnerablilty Report Template
 
