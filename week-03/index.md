@@ -6,19 +6,19 @@ I would choose the **MIT License** because it is simple and permissive. It only 
 ## Vulnerability Report Template
 
 **Contact Info**
--Reporter: [Optional]
--Email: [Secure contact]
+- Reporter: [Optional]
+- Email: [Secure contact]
 
 **Product/Version**
--Product: [Name]
--Version: [Number]
+- Product: [Name]
+- Version: [Number]
 
 **Environment**
 - OS/Platform: [e.g., Windows 11, Ubuntu 22.04]
 
 **Summary**
--Short description of issue
--Basic steps to reproduce(no exploit code)
+- Short description of issue
+- Basic steps to reproduce (no exploit code)
 
 **Impact**
 - What could happen if exploited
