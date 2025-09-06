@@ -41,8 +41,8 @@ The MIT license is **OSI-approved** and widely used (Open Source Initiative, n.d
 ---
 
 ## Evidence Links
-- [Case Brief PDF](week3-casebrief.pdf)
-- [Reflection PDF](week3-reflection.pdf)
+- [Case Brief PDF](../docs/week3-casebrief.pdf)
+- [Reflection PDF](../docs/week3-reflection.pdf)
 
 ---
 
