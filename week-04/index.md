@@ -42,7 +42,7 @@
 **EV-002** – HC-IR-1066-idp-logs-1330-1400.csv - SHA-256: c52df5aa4ff5507ecf844a98edd42309d4266f41747bd09264b79f6047320769 
 *Why:* Limited log segment showing login activity near phishing email; filtered to Sam Rivera only to protect unrelated users. 
 
-**Chain of Custody **
+**Chain of Custody**
 | Time | ItemID | From   | To  | Location | Action  | Sign/ID |
 --------------------
 |13:52Z|EV-001| Collector| Evidence Repo| `/evidence/HC-IR-1066/EV-001` |Intake + hash  | JD|
