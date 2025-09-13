@@ -75,8 +75,8 @@ I recorded **SHA-256 checksums** for each artifact and stored files under `/evid
 --- 
 
 ## Evidence Links
-- [Incident & Evidence Note (PDF)](docs/week4-incidentnote.pdf)
-- [Reflection (PDF)](docs/week4-reflection.pdf)
+- [Incident & Evidence Note (PDF)](../docs/week4-incidentnote.pdf)
+- [Reflection (PDF)](../docs/week4-reflection.pdf)
 
 ---
 
