@@ -84,6 +84,6 @@ I recorded **SHA-256 checksums** for each artifact and stored files under `/evid
 This exercise strengthened my ability to balance **evidence integrity** with **privacy**. Next time, if indicators suggested active malware, I would capture a **volatile memory snapshot** prior to isolation to avoid losing live artifacts. I also plan to practice containment trade-offs where service availability and privacy are both at risk.
 
 ## AI Use Note
-I used ChatGPT to help clarify NISt incident-response terminology.
+I used ChatGPT to help clarify NIST incident-response terminology.
 
 ---
