@@ -93,8 +93,8 @@
 ---
 
 # Evidence Links
-- [ROE Document (PDF)](docs/week5-ROE_outline.pdf)  
-- [Week 5 Reflection (PDF)](docs/week5-reflection.pdf)
+- [ROE Document (PDF)](..docs/week5-ROE_outline.pdf)  
+- [Week 5 Reflection (PDF)](..docs/week5-reflection.pdf)
 
 ---
 
