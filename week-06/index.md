@@ -30,8 +30,10 @@ These controls address risks identified in Chapter 11 of *Ethics in Technology* 
 ---
 
 ## Evidence Links  
- Weber, E. (2025). _Ethics in technology_.
- National Institute of Standards and Technology. (2023). _AI Risk Management Framework _(AI RMF 1.0). https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf 
+
+- Weber, E. (2025). *Ethics in technology*.  
+- National Institute of Standards and Technology. (2023). *AI risk management framework (AI RMF 1.0)*. https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf  
+
 
 ---
 
