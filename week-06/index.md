@@ -1,9 +1,9 @@
-# AI Use in Security Operations (NOT FINALIZED!!!!!!!!!!)
+# AI Use in Security Operations
 
 ## Policy Snippet (final)  
-**Scope & purpose:** This system covers email phishing alerts, anomaly detection, and login/access monitoring. Its purpose is to flag unusual or risky activity quickly while keeping the process fair and explainable.  
+**Scope & purpose:** This system covers email phishing alerts, anomaly detection, and login/access monitoring. Its goal is to flag unusual or risky activity quickly while keeping the process fair and explainable.  
 
-**Transparency & notice:** Every alert will include a short reason code (e.g., “suspicious link” or “unfamiliar login”) so users understand why it was flagged.  
+**Transparency & notice:** Every alert will include a short reason code (e.g., “suspicious link” or “unfamiliar login”) so users know why something was flagged.  
 
 **Human-in-the-loop:** For high-risk or unclear cases, the security team will review and can override automated decisions.  
 
@@ -30,7 +30,8 @@ These controls address risks identified in Chapter 11 of *Ethics in Technology* 
 ---
 
 ## Evidence Links  
- 
+ Weber, E. (2025). _Ethics in technology_.
+ National Institute of Standards and Technology. (2023). _AI Risk Management Framework _(AI RMF 1.0). https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf 
 
 ---
 
