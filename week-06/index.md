@@ -7,7 +7,7 @@
 
 **Human-in-the-loop:** For high-risk or unclear cases, the security team will review and can override automated decisions.  
 
-**Appeals path:** Any user can appeal a decision using a simple form. Appeals will be resolved within one hour for normal issues and within 24 hours for high-risk blocks.  
+**Appeals path:** Any user can appeal a decision using a simple form. Appeals will be resolved within one hour for routine issues and within 24 hours for high-risk blocks.  
 
 **Data handling:** The system only collects the minimum needed data (like headers and URLs). Message bodies are redacted, and logs are retained no longer than 180 days for blocked items and 30 days for allowed traffic.  
 
