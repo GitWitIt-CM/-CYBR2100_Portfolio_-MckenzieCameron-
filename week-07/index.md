@@ -1,3 +1,5 @@
+# Week 7 Bioethics & Society Plan
+
 # Lab/Project Ethics Addendum (Final)
 
 ## Protocol Approval & Roles
